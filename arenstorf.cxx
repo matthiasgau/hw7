@@ -12,7 +12,7 @@ int main(){
   double v[2]; //stores values of y and y_t
   double r, s;
   const double T=17.065216560157;
-  double dt; //bla
+  double dt; 
   
   
   
